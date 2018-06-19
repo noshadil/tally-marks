@@ -17,7 +17,7 @@ tallyMarks(12) // "卌,卌,||"
 
 ```
 const tallyMarks = require("tally-marks");
-tallyMarks(6, { html: true }) // "<s>||||</s>,|"
+tallyMarks(6, { html: true }) // "~~||||~~,|"
 ```
 
 ### with custom tally marks

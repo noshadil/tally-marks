@@ -1,7 +1,7 @@
 {
   "name": "tally-marks",
-  "version": "1.0.1",
-  "description": "Converts a number into a tally mark sting",
+  "version": "1.0.2",
+  "description": "Converts a number into a tally mark string",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
