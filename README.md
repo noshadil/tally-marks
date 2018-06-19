@@ -28,7 +28,7 @@ tallyMarks(13, { html: true })
 
 ```
 const tallyMarks = require("tally-marks");
-tallyMarks(18, { five: `🖐️,`, one: `☝️` })
+tallyMarks(18, { five: `🖐️ `, one: `☝️` })
 ```
 
 // 🖐️🖐️🖐️☝️☝️☝️
