@@ -10,19 +10,25 @@ npm install tally-marks
 
 ```
 const tallyMarks = require("tally-marks");
-tallyMarks(12) // "卌,卌,||"
+tallyMarks(12)
 ```
+
+// 卌,卌,||
 
 ### with html:ture
 
 ```
 const tallyMarks = require("tally-marks");
-tallyMarks(6, { html: true }) // "~~||||~~,|"
+tallyMarks(13, { html: true })
 ```
+
+// ~~||||~~,~~||||~~,|||
 
 ### with custom tally marks
 
 ```
 const tallyMarks = require("tally-marks");
-tallyMarks(18, { five: `🖐️,`, one: `☝️` }) //"🖐️🖐️🖐️☝️☝️☝️"
+tallyMarks(18, { five: `🖐️,`, one: `☝️` })
 ```
+
+// 🖐️🖐️🖐️☝️☝️☝️
