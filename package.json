@@ -1,6 +1,6 @@
 {
   "name": "tally-marks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts a number into a tally mark string",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "Number",
     "tally",
-    "marks"
+    "marks",
+    "streaks"
   ],
   "author": "Nosherwan Adil <cnak145@gmail.com>",
   "license": "ISC",
