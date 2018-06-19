@@ -1,6 +1,6 @@
 {
   "name": "tally-marks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a number into a tally mark sting",
   "main": "index.js",
   "scripts": {
