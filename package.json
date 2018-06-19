@@ -1,0 +1,29 @@
+{
+  "name": "tally-marks",
+  "version": "1.0.0",
+  "description": "Converts a number into a tally mark sting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noshadil/tally-marks.git"
+  },
+  "keywords": [
+    "Number",
+    "tally",
+    "marks"
+  ],
+  "author": "Nosherwan Adil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noshadil/tally-marks/issues"
+  },
+  "homepage": "https://github.com/noshadil/tally-marks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0"
+  }
+}
