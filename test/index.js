@@ -19,7 +19,7 @@ describe("#indexOf()", function() {
 
   it("should return 🖐️ 🖐 ️🖐 ️☝️☝️☝️ for 18", function() {
     assert.equal(
-      tallyMarks(18, { five: `🖐️ `, one: `☝️` }),
+      tallyMarks(18, { five: "🖐️ ", one: "☝️" }),
       "🖐️ 🖐️ 🖐️ ☝️☝️☝️"
     );
   });
