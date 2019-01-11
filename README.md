@@ -8,7 +8,7 @@ npm install tally-marks
 
 ### Converts a number into a tally mark sting
 
-```
+```console
 const tallyMarks = require("tally-marks");
 tallyMarks(12)
 ```
@@ -17,7 +17,7 @@ tallyMarks(12)
 
 ### with html:ture
 
-```
+```console
 const tallyMarks = require("tally-marks");
 tallyMarks(13, { html: true })
 ```
@@ -26,7 +26,7 @@ tallyMarks(13, { html: true })
 
 ### with custom tally marks
 
-```
+```console
 const tallyMarks = require("tally-marks");
 tallyMarks(18, { five: `🖐️ `, one: `☝️` })
 ```
