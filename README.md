@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/noshadil/tally-marks.svg?style=svg)](https://circleci.com/gh/noshadil/tally-marks)
+
 # Tally marks
 
 This simple function will convert a number into tally marks.
